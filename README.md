@@ -35,6 +35,7 @@
 
 - HTML5
 - CSS3 (Flexbox, адаптивная вёрстка)
+- JavaScript
 
 ---
 
